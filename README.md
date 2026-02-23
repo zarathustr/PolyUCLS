@@ -1,4 +1,4 @@
-# guc_ls_cpp — CMake/C++ reference implementation
+# CMake/C++ reference implementation
 
 This project provides a small C++17 reference implementation for the solvers described in the paper:
 

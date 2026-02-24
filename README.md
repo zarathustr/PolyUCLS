@@ -1,4 +1,4 @@
-# CMake/C++ reference implementation
+# PolyUCLS CMake/C++ reference implementation
 
 This project provides a small C++17 reference implementation for the solvers described in the paper:
 
@@ -104,3 +104,24 @@ This script reads `../build/guc_ls_noise_sweep.csv` by default and draws grouped
 - The Stiefel-Newton solver in this repo is intended for **small \(\ell\)**. In the benchmark it is only used for the `procrustes4` case.
 
 This code is meant to be clear and hackable rather than fully optimized.
+
+## Citation
+
+If you find this work useful for your research, please cite our paper:
+
+```bash
+@article{wu2026polyucls,
+  title={Polynomialized Unit-Constraint Least Squares},
+  author={Wu, Jin and Liu, Zhijie and Zhang, Chengxi and Hu, Xiangcheng and Zou, Zuhao and He, Zhijian},
+  journal={Submission to IEEE Transactions on Aerospace and Electronic Systems},
+  year={2026},
+  publisher={Arxiv},
+  url={[https://github.com/zarathustr/PolyUCLS](https://github.com/zarathustr/PolyUCLS)}
+}
+```
+
+------
+
+## Issues
+
+For any questions, please open an issue or contact `wujin@ustb.edu.cn`.

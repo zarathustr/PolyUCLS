@@ -112,8 +112,8 @@ If you find this work useful for your research, please cite our paper:
 ```bash
 @article{wu2026polyucls,
   title={Polynomialized Unit-Constraint Least Squares},
-  author={Wu, Jin and Liu, Zhijie and Zhang, Chengxi and Hu, Xiangcheng and Zou, Zuhao and He, Zhijian},
-  journal={Submission to IEEE Transactions on Aerospace and Electronic Systems},
+  author={Wu, Jin},
+  journal={Submission to IEEE Transactions on Cybernetics},
   year={2026},
   publisher={Arxiv},
   url={[https://github.com/zarathustr/PolyUCLS](https://github.com/zarathustr/PolyUCLS)}

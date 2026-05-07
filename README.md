@@ -209,7 +209,7 @@ If you find this work useful for your research, please cite:
 ```bibtex
 @article{wu2026polyucls,
   title={Polynomialized Unit-Constraint Least Squares},
-  author={Wu, Jin and Liu, Zhijie and Sun, Liang and Zou, Yao and Zhang, Chengxi and Ahn, Choon Ki and He, Wei},
+  author={Wu, Jin and Liu, Zhijie and Sun, Liang and Zou, Yao and Zhang, Chengxi and Ahn, Choon Ki and Ge, Shuzhi Sam},
   journal={Submission to IEEE Transactions on Systems, Man, and Cybernetics: Systems},
   year={2026},
   publisher={Arxiv},

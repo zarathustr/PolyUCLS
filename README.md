@@ -1,6 +1,6 @@
 # PolyUCLS: Polynomialized Unit-Constraint Least Squares
 
-Authors: Jin Wu, Zhijie Liu, Liang Sun, Yao Zou, Chengxi Zhang, Choon Ki Ahn, Wei He
+Authors: Jin Wu, Zhijie Liu, Liang Sun, Yao Zou, Chengxi Zhang, Choon Ki Ahn, Shuzhi Sam Ge
 
 [![C++](https://img.shields.io/badge/C%2B%2B-17-green.svg)](https://isocpp.org/)
 [![CMake](https://img.shields.io/badge/CMake-3.16%2B-blue.svg)](https://cmake.org/)
